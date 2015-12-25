@@ -8,7 +8,7 @@ Generate multipart/form-data from array buffer (Uint8Array), used to upload file
 
 ```javascript
 
-FromData has 2 methods : append() and generate().
+FormData has 2 methods : append() and generate().
  
 ```
 
